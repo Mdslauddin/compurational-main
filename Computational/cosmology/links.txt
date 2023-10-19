@@ -1,0 +1,95 @@
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9251486/
+http://www.ams.org/publicoutreach/feature-column/fcarc-cosmology
+https://uwaterloo.ca/applied-mathematics/future-undergraduates/what-you-can-learn-applied-mathematics/relativity-and-cosmology
+
+Computational cosmology is a branch of astrophysics and cosmology that uses computational techniques and supercomputers to simulate and model the universe's evolution, structure, and behavior on cosmic scales. It plays a crucial role in our understanding of the cosmos, as it allows scientists to test theoretical models, make predictions, and analyze large datasets from observational surveys.
+
+Here are some key aspects of computational cosmology:
+
+Simulating the Universe: Computational cosmologists create numerical simulations of the universe's evolution from the early moments after the Big Bang to the present day. These simulations incorporate the laws of physics, including gravity, particle interactions, and dark matter dynamics, to model the formation and growth of cosmic structures such as galaxies, galaxy clusters, and large-scale cosmic filaments.
+
+N-Body Simulations: N-body simulations are a common approach in computational cosmology. They involve modeling the gravitational interactions among a large number of particles (representing dark matter, gas, and galaxies) to track how cosmic structures evolve over time. These simulations can be run on supercomputers and can provide insights into the formation of cosmic structures and the distribution of matter in the universe.
+
+Cosmological Parameters: Computational cosmology is instrumental in constraining the values of cosmological parameters such as the density of dark matter, dark energy, and the Hubble constant. Comparing simulated results to observations, such as the cosmic microwave background radiation and large-scale galaxy surveys, allows scientists to refine these parameters and develop a more accurate cosmological model.
+
+Galaxy Formation and Evolution: Simulations in computational cosmology also focus on the formation and evolution of galaxies. They track the interplay between dark matter, gas, and star formation processes within galaxies, helping to explain the diversity of galaxy types and their observed properties.
+
+Observational Data Analysis: Computational techniques are used to analyze and interpret large datasets obtained from observational cosmology experiments, including telescopes and satellites. These analyses help identify and understand various cosmic phenomena, such as the distribution of galaxies, the cosmic microwave background, and the large-scale structure of the universe.
+
+Testing Cosmological Hypotheses: Computational models allow scientists to test various cosmological hypotheses and scenarios, such as the effects of dark matter interactions, modifications to the theory of gravity, or the nature of dark energy. By simulating these scenarios, researchers can assess their consistency with observations and potentially refine our understanding of the universe's fundamental properties.
+
+Supercomputing facilities are essential for running the complex and computationally intensive simulations required for computational cosmology. As technology advances, these simulations continue to provide valuable insights into the universe's history, structure, and evolution, contributing to our understanding of cosmology and astrophysics.
+
+
+
+
+
+The syllabus for a course in cosmological mathematics can vary depending on the level of the course (undergraduate or graduate), the specific goals of the course, and the institution offering it. However, here is a general outline of topics that might be covered in a cosmological mathematics course:
+
+# Prerequisites:
+- Calculus: Including differential calculus (limits, derivatives, and applications) and integral calculus (definite and indefinite integrals).
+- Linear Algebra: Basic understanding of matrices, vectors, vector spaces, and eigenvalues/eigenvectors.
+- Differential Equations: Familiarity with ordinary differential equations and partial differential equations.
+Course Outline:
+
+Introduction to Cosmology
+- Overview of the universe's history and structure.
+- The Big Bang theory and its implications.
+- Cosmic microwave background radiation.
+
+# Mathematical Tools for Cosmology
+- Vector and matrix algebra in cosmological contexts.
+- Coordinate systems in cosmology.
+- Basics of differential geometry and tensors in curved spacetime.
+
+# Cosmic Dynamics
+- Newtonian gravity and its limitations in cosmology.
+- Einstein's theory of General Relativity.
+- Friedmann-Lemaître-Robertson-Walker (FLRW) metric.
+- Equations governing the evolution of the universe.
+
+
+# Cosmic Expansion
+- Hubble's law and the Hubble parameter.
+- Redshift and its relation to cosmic expansion.
+- Calculation of distances in an expanding universe.
+
+
+# Cosmic Microwave Background
+- Thermal history of the universe.
+- Blackbody radiation.
+- Cosmic microwave background spectrum and its significance.
+
+# Formation and Growth of Cosmic Structures
+- Linear and non-linear structure formation.
+- Dark matter and its role in structure formation.
+- Numerical simulations of structure formation.
+
+# Cosmological Parameters
+- Dark matter density, dark energy density, and their significance.
+- Hubble constant and its measurements.
+- Cosmological parameters from observations.
+
+# Advanced Topics (Optional)
+- Inflation theory.
+- Cosmic microwave background anisotropies.
+- Dark energy models and quintessence.
+
+
+# Observational Cosmology
+- Large-scale structure surveys.
+- Galaxy redshift surveys.
+- Weak gravitational lensing.
+- Supernovae as cosmological probes.
+
+# Final Projects or Case Studies
+- Students may work on projects related to cosmological simulations,
+   observational data analysis, or theoretical research.
+
+
+
+This outline provides a broad overview of the topics that might be covered in a cosmological mathematics course. The depth and complexity of the material can vary, and more advanced courses might delve into additional mathematical and theoretical aspects of cosmology, including topics in advanced differential geometry, numerical relativity, and quantum cosmology. The specific content and emphasis may vary depending on the instructor and the level of the course.
+
+
+
+
